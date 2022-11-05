@@ -24,7 +24,8 @@ function Contacts() {
                         <ul>
                             <li>Tel: <br/> 351-8109801</li>
                             <li>Mail: <br/> maxiperez283@gmail.com</li>
-                            <li>linkedin:<br/><a href='https://www.linkedin.com/in/maxi-perez-3a0953228' target='_blank' >www.linkedin.com/in/maxi-perez-3a0953228</a></li>                          
+                            <li>linkedin:</li>   
+                            <a href='https://www.linkedin.com/in/maxi-perez-3a0953228' target='_blank'>www.linkedin.com/in/maxi-perez-3a0953228</a>                       
                         </ul>
                     </Card>
                 </div>

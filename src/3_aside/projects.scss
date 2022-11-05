@@ -1,0 +1,38 @@
+.containerCard{
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    background: transparent url('../img/teclado-con-codigo-de-programacion-y-numeros-binarios-en-el-fondo-mf9ht5.jpg') 0% 0% no-repeat padding-box;
+    background-size: cover;
+}
+
+.cards{
+    margin-bottom: 0.5rem;
+    background: #000000cf;
+}
+
+.cardBody{
+    color: #ffff;
+}
+
+.cardTitle{
+    font-size: 1.8rem;
+}
+
+.cardText{
+    width: auto;
+}
+
+@media only screen and (min-width:1000px){
+    .containerCard{
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+        .cards{
+            margin: 0%;
+            width: 40vw;
+        }
+            .buttonCards{
+                width: 20rem;
+            }
+}

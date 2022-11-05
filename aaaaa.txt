@@ -1,0 +1,45 @@
+poner linkedin en el cv
+
+
+
+
+
+boton card//
+heigth: 2.5rem;
+background: #1093d7;
+
+containerfoter{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 7rem;
+}
+
+
+boton contacts{
+    background: #1093d7;
+    height: 2.5rem;
+    
+
+div boton{
+height: 6rem
+
+
+
+div collapse{
+heigth: 7rem
+
+div card{
+height: 7rem;
+    width: 66rem;
+    background: transparent;
+
+div card body{
+    display: grid;
+color: white;
+
+
+
+agregar a los link
+    justify-content: space-evenly;
+    display: flex;

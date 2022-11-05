@@ -1,0 +1,14 @@
+.link{
+    color: rgb(255, 255, 255);
+}
+
+.nav{
+    display: grid;
+    grid-template-columns: repeat(2, 10rem);
+}
+
+@media only screen and (min-width:1000px){
+    .nav{
+        display: flex;
+    }
+}

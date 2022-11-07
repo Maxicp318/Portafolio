@@ -1,4 +1,5 @@
 import React from 'react';
+import Button from 'react-bootstrap/Button';
 import Nav from '../components/nav/nav';
 import Foto_perfil from '../img/Foto_perfil.png'
 import './who_I_am.scss';
@@ -7,7 +8,8 @@ function Header() {
   return (
         <header id='who_i_am'>
             <div className='container'>
-            <img className="perfil" src={Foto_perfil} alt="foto_perfil"/>           
+            <img className="perfil" src={Foto_perfil} alt="foto_perfil"/>      
+            <Button className='btn-descarga' variant="primary" href='https://drive.google.com/file/d/1pZrLZb4lVB-Ljf--09xKtLyb_Z2yHWk0/view?usp=sharing' target="_blank">Descargar Cv</Button>     
             <Nav/>
             <h1>Hola, soy Maximiliano Perez</h1>
             <p>Un estudiante de la carrera tecnico superior en

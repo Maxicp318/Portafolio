@@ -23,13 +23,23 @@ header{
 h1{
     color:#ffff;
     padding: 0.8rem;
+    font-family: sans-serif;
 }
 
 p{
     font-size: larger;
-    font-family: cursive;
+    font-family: sans-serif;
     color: #ffff;
     padding: 0.8rem;
+}
+
+.btn-descarga{
+    display: flex;
+    margin-top: 0.3rem;
+    width: 10rem;
+    height: 2rem;
+    justify-content: center;
+    align-items: center;
 }
 
 @media only screen and (min-width:1000px){

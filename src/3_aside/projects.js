@@ -13,7 +13,7 @@ function aside() {
                     <Card.Text className='cardText'>
                         Aplcacion web desarrollada en el curso de full stack, en MundosE
                     </Card.Text>
-                    <Button className='buttonCards' variant="primary" href='https://app-pin-frontend.herokuapp.com/' target="_blank">Ir</Button>
+                    <Button className='buttonCards' variant="primary" href='https://pin-fullstack.netlify.app' target="_blank">Ir</Button>
                 </Card.Body>
             </Card>
         </div>

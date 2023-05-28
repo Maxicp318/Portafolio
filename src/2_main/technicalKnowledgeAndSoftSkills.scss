@@ -1,0 +1,99 @@
+.containerMain{
+    background: transparent url('../img/desktop.jpg') 0% 0% no-repeat padding-box;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.titulosContainerMain{
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 80%;
+    background: #000000cf;
+    height: 3rem;
+}
+
+.containerLenguajes{
+    display: grid;
+    grid-template-columns: auto 1rem auto;
+}
+
+.tags_1{
+    font-size: 1.2rem;
+    grid-column: 1/2;
+    border: 3px solid rgb(0, 208, 255);
+    margin-bottom: 0.2rem;
+    background-color: rgba(0, 0, 0, 0.8117647059);
+}
+
+.tags_2{
+    font-size: 1.2rem;
+    grid-row: 1/2;
+    grid-column: 3/3;
+    border: 3px solid rgb(0, 208, 255);
+    margin-bottom: 0.2rem;
+    background-color: rgba(0, 0, 0, 0.8117647059);
+}
+
+.tags_3{
+    font-size: 1.2rem;
+    grid-row: 2/3;
+    grid-column: 3/3;
+    border: 3px solid rgb(0, 208, 255);
+    margin-bottom: 0.2rem;
+    background-color: rgba(0, 0, 0, 0.8117647059);
+}
+
+.tags_4{
+    font-size: 1.2rem;
+    grid-row: 3/3;
+    grid-column: 3/3;
+    border: 3px solid rgb(0, 208, 255);
+    margin-bottom: 0.2rem;
+    background-color: rgba(0, 0, 0, 0.8117647059);
+}
+
+.tags_5{
+    font-size: 1.2rem;
+    grid-row: 4/4;
+    grid-column: 3/3;
+    border: 3px solid rgb(0, 208, 255);
+    margin-bottom: 0.2rem;
+    background-color: rgba(0, 0, 0, 0.8117647059);
+}
+
+.tags_6{
+    font-size: 1.2rem;
+    grid-row: 5/5;
+    grid-column: 3/3;
+    border: 3px solid rgb(0, 208, 255);
+    margin-bottom: 0.2rem;
+    background-color: rgba(0, 0, 0, 0.8117647059);
+}
+
+.tags_7{
+    font-size: 1.2rem;
+    grid-column: 1/2;
+    border: 3px solid rgb(0, 208, 255);
+    margin-bottom: 0.2rem;
+    background-color: rgba(0, 0, 0, 0.8117647059);
+}
+
+@media only screen and (min-width:1000px){
+    .containerMain{
+        height: 40rem;
+    }
+        .tituloConocimientos{
+            width: 60%;
+            height: 4rem;
+            margin-bottom: 2rem;
+        }
+        .containerLenguajes{
+            width: 50%;
+        }
+}

@@ -3,8 +3,8 @@ header{
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    background: transparent url('../img/codigo-de-programacion-de-futurista-y-grandes-conexiones-de-datos-y-modelos-de-red-ilustracion-3d-prfdh8.jpg') 0% 0% no-repeat padding-box;
-    background-size: cover;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 17%, rgba(19,53,90,1) 52%);
 }
 
 .container{
@@ -26,7 +26,7 @@ h1{
     font-family: sans-serif;
 }
 
-p{
+.who_I_am{
     font-size: larger;
     font-family: sans-serif;
     color: #ffff;
@@ -43,9 +43,6 @@ p{
 }
 
 @media only screen and (min-width:1000px){
-    header{
-        height: 100vh;
-    }
         .container{
             width: 70vw;
         }

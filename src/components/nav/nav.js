@@ -4,6 +4,7 @@ import './nav.scss';
 
 function nav() {
     return (
+
         <div className='containerNav'>
             <Nav className='nav'>
                 <Nav.Item>
@@ -11,6 +12,9 @@ function nav() {
                 </Nav.Item>
                 <Nav.Item>
                     <Nav.Link className='link' href='#knowledge'>Conocimientos</Nav.Link>
+                </Nav.Item>
+                <Nav.Item>
+                    <Nav.Link className='link' href='#certifications'>Certificaciones</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                     <Nav.Link className='link' href="#projets">Proyectos</Nav.Link>

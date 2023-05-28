@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Nav from '../components/nav/nav';
-import Foto_Perfil_2 from '../img/Foto_Perfil_2.png'
+import Foto_Perfil_2 from '../img/Foto_Perfil_2.png';
 import 'animate.css';
 import './who_I_am.scss';
 

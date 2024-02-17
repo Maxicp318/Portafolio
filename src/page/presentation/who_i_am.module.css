@@ -1,0 +1,44 @@
+.containerPresentation{
+    padding: 1rem;
+    width: 100vw;
+    min-height: 100vh;
+    display: grid;
+    background: var(--second-modal-color) url('../../public/img/fondo_4.jpg');
+    background-size: cover; 
+    color: var(--color-text);
+    font-family: sans-serif;
+}
+
+.btnDescarga{
+    width: 9rem;
+    height: 3.7rem;
+}
+
+.perfil{
+    max-width: 200px;
+    max-height: 250px;
+    align-self: end;
+    justify-self: center;
+    border-radius: 10%;
+}
+
+h1{  
+    margin: 0;
+    justify-self: center;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.containerText{
+    padding: 0.8rem;
+    width: 90%;
+    background: #000000c2;
+    border-radius: 10px;
+    justify-self: center;
+    align-self: center;
+}
+
+.textPresentation{
+    margin: 0;
+    text-align: center;
+}

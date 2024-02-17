@@ -1,0 +1,27 @@
+.container {  
+    padding: 1rem;
+    border-radius: 10px;
+    width: 80%;
+    justify-self: center;
+}
+
+.img {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid var(--main-color);
+}
+
+.text {
+    text-align: center;
+    color: #fff;
+}
+
+.containerBtn {
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.Btn {
+    border-radius: 0;
+}

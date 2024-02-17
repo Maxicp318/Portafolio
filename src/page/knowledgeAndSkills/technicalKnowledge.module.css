@@ -1,0 +1,19 @@
+.containerKnowledge{
+    padding: 0.3rem;
+    background: var(--second-color);
+    border-radius: 10px;
+}
+
+.containerKnowledge:hover{
+    opacity: 0.5;
+}
+
+.containerLi{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    font-size: 1.2rem;
+    color: var(--main-color);
+}

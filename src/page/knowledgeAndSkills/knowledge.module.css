@@ -1,0 +1,51 @@
+.containerKnowledgeAndSkills{
+    background: var(--second-color) url("../../public/img/fondo_archivos.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+.containerKnowledge{
+    display: grid;
+    grid-template-rows: 8rem auto;
+}
+
+.containerDiv2{
+    display: grid;   
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    justify-items: center;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    justify-self: center;
+    background: var(--main-color);
+    width: 70%;
+    height: 4rem;
+    border-radius: 10px;
+    color: var(--color-text);
+    margin: 0%;
+    text-align: center;
+}
+
+.containerUl{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    justify-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.softSkills{
+    margin: 0.5rem;
+    padding: 0;
+    width: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
+}

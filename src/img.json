@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "nombre": "Certificado Teclab",
+        "titulo": "Tecnico Superior En Programacion",
+        "url": "https://github.com/Maxicp318/imagenes/blob/main/CertificadoAuxiliarDeProgramacion.jpg?raw=true"
+    },
+    {
+        "id": "2",
+        "nombre": "Certificado MundosE",
+        "titulo": "Full Stack",
+        "url": "https://github.com/Maxicp318/imagenes/blob/main/CertificadoDeFullStack.png?raw=true"
+    },
+    {
+        "id": "3",
+        "nombre": "Certificado backend_1 Argentina Programa",
+        "titulo": "BackEnd 1, Introduccion A Java",
+        "url": "https://github.com/Maxicp318/imagenes/blob/main/Backend_1_Introducci%C3%B3n_a_Java.jpeg?raw=true"
+    },
+    {
+        "id": "4",
+        "nombre": "Certificado backend_2 Argentina Programa",
+        "titulo": "BackEnd 2, Java Y Base De Datos",
+        "url": "https://github.com/Maxicp318/imagenes/blob/main/Certificado_backend_2.png?raw=true"
+    },
+    {
+        "id": "5",
+        "nombre": "Certificado frontend Argentina Programa",
+        "titulo": "FrontEnd",
+        "url": "https://github.com/Maxicp318/imagenes/blob/main/Certificado_Frontend.png?raw=true"
+    },
+    {
+        "id": "6",
+        "nombre": "Certificado fullstack Argentina Programa",
+        "titulo": "Full Stack",
+        "url": "https://github.com/Maxicp318/imagenes/blob/main/Certificado_fullstack_argentina_programa.png?raw=true"
+    },
+    {
+        "id": "7",
+        "nombre": "Certificado Html OP",
+        "titulo":"Html Y Css",
+        "url": "https://github.com/Maxicp318/imagenes/blob/main/Certificado_Html_Css_OP.png?raw=true"
+    },
+    {
+        "id": "8",
+        "nombre": "Certificado Java OP",
+        "titulo": "Java Basico",
+        "url": "https://github.com/Maxicp318/imagenes/blob/main/Certificado_Java_OP.png?raw=true"
+    },
+    {
+        "id": "9",
+        "nombre": "Certificado Alkemi",
+        "titulo": "JavaScript",
+        "url": "https://github.com/Maxicp318/imagenes/blob/main/Captura%20de%20pantalla%20(65).png?raw=true"
+    }
+]

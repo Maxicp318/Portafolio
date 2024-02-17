@@ -1,0 +1,21 @@
+.containerCertificate{
+    background: var(--second-color) url('../../public/img/fondo_compu.jpg');
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: var(--main-color);
+    width: 70%;
+    height: 4rem;
+    border-radius: 10px;
+    color: var(--color-text);
+    margin: 0%;
+}

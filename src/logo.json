@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "nombre": "Html5",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/html.png?raw=true"
+    },
+    {
+        "id": "2",
+        "nombre": "Css3",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/ccs.png?raw=true"
+    },
+    {
+        "id": "3",
+        "nombre": "JavaScript",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/javaScript.png?raw=true"
+    },
+    {
+        "id": "5",
+        "nombre": "Java",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/java.png?raw=true"
+    },
+    {
+        "id": "6",
+        "nombre": "Git hub",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/git%20hub.png?raw=true"
+    },
+    {
+        "id": "7",
+        "nombre": "Git",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/git.png?raw=true"
+    },
+    {
+        "id": "9",
+        "nombre": "Mysql",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/mysql.png?raw=true"
+    },
+    {
+        "id": "10",
+        "nombre": "Posgres",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/posgres%20sql.png?raw=true"
+    },
+    {
+        "id": "11",
+        "nombre": "Workbrench",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/workbrench.png?raw=true"
+    },
+    {
+        "id": "12",
+        "nombre": "Postman",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/postman.png?raw=true"
+    },
+    {
+        "id": "13",
+        "nombre": "React.js",
+        "logo": "https://github.com/Maxicp318/logos/blob/main/react.png?raw=true"
+    }
+]

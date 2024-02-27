@@ -8,6 +8,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 const contact = () => {
   return (
     <div className={styles.container}>
+      <h2 className={styles.titulo}>Contacto</h2>
       <div className={styles.container2}>
         <img className={styles.containerImg} alt="foto perfil" src={perfil} />
         <ul>

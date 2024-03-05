@@ -14,7 +14,8 @@ function Projects(){
           img={project1} 
           description="primer proyecto"
           title="Land page" 
-          text="Pagina creada con html5, css, sass, react.js" 
+          text="Primer proyecto hecho en el curso de full stack en el Instituto MundosE,
+          Land page creada con Html, Ccs, Sass, Bootstrap, JavaScript, React.js"
           web="https://pin-fullstack.netlify.app/"
           codigo="https://github.com/Maxicp318/Pin-FontEnd"/>
 
@@ -22,7 +23,8 @@ function Projects(){
           img={project2} 
           description="segundo proyecto"
           title="Pagina de club de futbol Argentino" 
-          text="Pagina creada con html5, css, react.js" 
+          text="Proyecto web de futbol argentino esta creado con Html5, modulos Css, usos de componentes
+          React.js y archivos json para cargar la info de cada equipo" 
           web="https://lista-de-equipos-argentinos.netlify.app/"
           codigo="https://github.com/Maxicp318/List-Of-Teams"/>
 
@@ -30,7 +32,9 @@ function Projects(){
           img={project3} 
           description="tercer proyecto"
           title="Portafolio" 
-          text="Pagina creada con html5, css, react.js" 
+          text="Proyecto portafolio creada con Html5, modulos css, usos de Componentes, Hook, Router
+          de react.js, archivos json para cargar  imagenes de certificaciones 
+          y logos de lenguajes de programacion" 
           web="https://portafoliomaxi.netlify.app/"
           codigo="https://github.com/Maxicp318/Portafolio"/>
       </div>

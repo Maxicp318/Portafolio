@@ -1,6 +1,5 @@
 .containerPresentation{
     padding: 1rem;
-    width: 100vw;
     min-height: 100vh;
     display: grid;
     background: var(--second-modal-color) url('../../public/img/fondo_4.jpg');
@@ -16,26 +15,26 @@
 
 .perfil{
     max-width: 200px;
-    max-height: 250px;
+    max-height: 240px;
     align-self: end;
     justify-self: center;
     border-radius: 10%;
 }
 
-h1{  
+.titulos{  
     margin: 0;
     justify-self: center;
-    padding: 0.5rem;
+    padding: 0.3rem;
     text-align: center;
 }
 
 .containerText{
-    padding: 0.8rem;
+    padding: 0.5rem;
     width: 90%;
     background: #000000c2;
     border-radius: 10px;
     justify-self: center;
-    align-self: center;
+    
 }
 
 .textPresentation{

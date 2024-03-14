@@ -14,13 +14,13 @@ function Presentation() {
                 <p className={`animate__animated animate__fadeInDown who_I_am ${styles.textPresentation}`}>
                     Recibido del Instituto Superior Teclab.
                     <br />Me describo como una persona comprometida, proactivo y siempre con actitud positiva.
-                    <br />Me destaco por mi empatia para formar buenas relaciones personales
-                    y adaptarme muy bien al trabajar en equipo.
-                    <br/>Cuento con muchos conocimientos y estoy abierto ha aprender nuevas tecnologias 
-                    e habilidades que me complementen para seguir creciendo en mi desarrollo profesional
+                    <br />Me destaco por mi empatia que me ayuda a formar buenas relaciones personales
+                    y me permite adaptarme muy bien al trabajo en equipo.
+                    <br/>Cuento con muchos conocimientos, estoy abierto ha aprender nuevas tecnologias 
+                    y habilidades que me complementen para seguir creciendo en mi desarrollo profesional.
                     <br />
-                    Mi objetivo es entrar a la industria IT; 
-                    sumar experiencia para lograr ser un gran profesional en el mundo de la Proramacion. 
+                    Mi objetivo es ser parte del mundo de la tecnologia;
+                    sumar experiencia para lograr ser un gran profesional.
                 </p>
             </article>
         </div>

@@ -1,13 +1,14 @@
 import styles from './listCard.module.css'
+import CardCertification from './cardCertification'
+import img from '../../img.json';
 
-function ListCard({ props, componentH }){
-    
-    const CardCertificado = componentH;
+
+function ListCard(){
 
     return(
         <div>
             <ul className={styles.listadoGrid}>
-                {props.map((i) => <CardCertificado key={i.id} props={i}/>)}
+                {img.map((i) => <CardCertification key={i.id} props={i}/>)}
             </ul>
         </div>
     )

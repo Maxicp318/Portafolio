@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import styles from './cardCertification.module.css'
 
-export function Card({ props }){
+function Card({ props }){
 
     return(
         <Link className={styles.link} to={"/detailsCard/" + props.id}>
@@ -12,4 +12,6 @@ export function Card({ props }){
         </Link>
     )
 }
+
+export default Card;
 

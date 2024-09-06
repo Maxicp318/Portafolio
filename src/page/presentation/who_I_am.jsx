@@ -1,5 +1,5 @@
 import Btn from '../../components/buttons/button'
-import Foto_Perfil_2 from '../../public/img/Foto_Perfil_2.png';
+import Foto_Perfil_2 from '../../public/img/Foto_Perfil_1.png';
 import 'animate.css';
 import styles from './who_i_am.module.css';
 
@@ -13,13 +13,13 @@ function Presentation() {
             <article className={styles.containerText}>
             <p className={`animate__animated animate__fadeInDown who_I_am ${styles.textPresentation}`}>
                     Recibido del Instituto Superior Teclab.
-                    <br />Me describo como una persona comprometida, proactivo y siempre con actitud positiva.
-                    <br />Me destaco por mi empatia que me ayuda a formar buenas relaciones personales
+                    <br />Me describo como una persona comprometida y positiva.
+                    <br />Me destaco por mi empatía que me ayuda a formar buenas relaciones personales
                     y me permite adaptarme muy bien al trabajo en equipo.
-                    <br/>Cuento con muchos conocimientos, estoy abierto ha aprender nuevas tecnologias 
-                    y habilidades que me complementen para seguir creciendo en mi desarrollo profesional.
+                    <br/>Cuento con muchos conocimientos y estoy abierto ha aprender nuevas tecnologías 
+                    e habilidades que me complementen para seguir creciendo en mi desarrolló personal.
                     <br />
-                    Mi objetivo es ser parte del mundo de la tecnologia;
+                    Mi objetivo es ser parte del mundo IT;
                     sumar experiencia para lograr ser un gran profesional.
                 </p>
             </article>

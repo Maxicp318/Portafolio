@@ -6,7 +6,7 @@ import styles from './who_i_am.module.css';
 function Presentation() {
   return (
         <div className={styles.containerPresentation} id='who_i_am'>  
-            <Btn addStyle={styles.btnDescarga} props={'Descargar Cv'} link={'https://drive.google.com/file/d/1in1HI0wufcesthEO8e4EbRTqPIAshV6E/view?usp=sharing'} pagina={"_blank"}/>    
+            <Btn addStyle={styles.btnDescarga} props={'Ver Cv'} link={'https://drive.google.com/file/d/1in1HI0wufcesthEO8e4EbRTqPIAshV6E/view?usp=sharing'} pagina={"_blank"}/>    
             <img className={styles.perfil} src={Foto_Perfil_2} alt="foto_perfil"/>      
             <h1 className={`animate__animated animate__backInDown ${styles.titulos}`}>Hola, soy Maximiliano Perez</h1>
             <h2 className={`animate__animated animate__backInDown ${styles.titulos}`}>Técnico Superior En Programación</h2>

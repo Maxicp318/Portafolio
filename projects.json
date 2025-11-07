@@ -1,0 +1,19 @@
+[
+   
+    {
+        "id": 2,
+        "name": "Gestion de tareas",
+        "description": "App web para la gestión de tareas con funcionalidades CRUD (crear, leer, actualizar, eliminar). \nEl backend fue desarrolado con Spring Boot y expone una API REST, desplegada en Render. \nEl frontend fue construido con Angular + TypeScript, alojado en Netlify. \nLa base de datos relacional utilizada es PostgreSQL.",
+        "img": "https://github.com/Maxicp318/imagenes/blob/main/Projects/gestion-tasks.png?raw=true",
+        "url": "https://github.com/Maxicp318/App-Gestion-tasks/tree/main",
+        "video":"https://drive.google.com/file/d/1xZhoHZJztfmv_qj4mFdLe88QOCQuH9uI/preview"
+    },
+    {
+        "id": 3,
+        "name": "Portafolio",
+        "description": "Portafolio Web Propio Realizado con componentes React.js, estilos con Tailwind Css y usos de archivos Json para mostar imagenes y descripciones.",
+        "img": "https://github.com/Maxicp318/imagenes/blob/main/Projects/Project-Portafolio.png?raw=true",
+        "url": "",
+        "video":"https://drive.google.com/file/d/1hf9ZYYoFCHVeo_tRJBaIqOUg6ZahjtNB/view?usp=sharing"
+    }
+]

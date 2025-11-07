@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Certificado Ayi Group",
+        "description": "Capacitación en la empresa Ayi Group. Desde 19/08/2024 - Hasta 19/12/2024 \nJava, Spring Boot, React.js, Node.js",
+        "img": "https://github.com/Maxicp318/imagenes/blob/main/Certificado_AYI.png?raw=true"
+    },
+    {
+        "id": 2,
+        "name": "Certificado Practicas",
+        "description": "Certificado de practicas profecionalizante. \n28/11/2023",
+        "img": "https://github.com/Maxicp318/imagenes/blob/main/Practica_profesionalizante.png?raw=true"
+    },
+    {
+        "id": 3,
+        "name": "Diploma Técnico Superior En Programación",
+        "description": "Tecnicatura de 2 años. \n*Instituto Teclab*. \nDesde 20/03/2022 - Hasta 13/12/2023 ",
+        "img": "https://github.com/Maxicp318/imagenes/blob/main/Diploma%20de%20Tec%20Superior%20En%20Programacion.png?raw=true"
+    },
+    {
+        "id": 4,
+        "name": "Certificado Alkemy",
+        "description": "Certificado del curso de JavaScript realizado en la academia Alkemy",
+        "img": "https://github.com/Maxicp318/imagenes/blob/main/Certificado_alkemi.png?raw=true"
+    },
+    {
+        "id": 5,
+        "name": "Certificado FullStack",
+        "description": "*Curso de Argentina programa 4.0.* \n1er- Etapa Programación en Java. \n2da- Etapa Base de Datos con Mysql. \n3er- Etapa FrontEnd con Html | Css3 | JavaScript | React.js. \n4ta- Etapa BackEnd con Spring Boot. \n*Intitucion Egg Cooperation*",
+        "img": "https://github.com/Maxicp318/imagenes/blob/main/Certificado_fullstack_argentina_programa.png?raw=true"
+    },
+    {
+        "id": 6,
+        "name": "Certificado FullStack",
+        "description": "Curso de desarrollo fullStack dictado por el Instituto MundosE.",
+        "img": "https://github.com/Maxicp318/imagenes/blob/main/CertificadoDeFullStack.png?raw=true"
+    }
+]

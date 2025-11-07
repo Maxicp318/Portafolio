@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import AboutMe from './pages/AboutMe';
 import Knowledge from './pages/Knowledge';
 import Projects from './pages/Projects';
-import Experience from './pages/experience';
+import Experience from './pages/Experience';
 import Studies from './pages/Studies';
 import Footer from './components/Footer';
 import AOS from 'aos';

@@ -8,7 +8,7 @@ const Card = ({ props, type }) => {
     <>
       <div
         className="group w-80 h-auto rounded-2xl overflow-hidden bg-black/70 border-2 
-        border-purple-800 transition-all duration-500 hover:max-h-[600px] shadow-own-hard"
+        border-purple-800 transition-all duration-500 shadow-own-hard lg:hover:max-h-[600px]"
         data-aos="flip-up"
       >
         <h1 className="py-4 text-2xl text-center underline decoration-4 tracking-wide decoration-purple-800
@@ -20,13 +20,13 @@ const Card = ({ props, type }) => {
         {type === "projects"? (
           <img
             className="w-full h-40 rounded-2xl object-cover transition-transform duration-500 
-            group-hover:scale-110"
+            lg:group-hover:scale-110"
             src={props.img}
             alt={props.name}
           /> ) : (
           <img
             className="w-full h-40 rounded-2xl object-cover transition-transform duration-500 cursor-pointer
-            group-hover:scale-110"
+            lg:group-hover:scale-110"
             src={props.img}
             alt={props.name}
             onClick={() => setOpen(true)}
@@ -34,8 +34,8 @@ const Card = ({ props, type }) => {
         }
 
         <section 
-          className="max-h-0 overflow-hidden transition-all duration-700 group-hover:max-h-[400px]
-          whitespace-pre-line"
+          className="overflow-hidden transition-all duration-700 whitespace-pre-line lg:max-h-0
+          lg:group-hover:max-h-[400px]"
         >
           <p className="py-4 px-2 tracking-wide">{props.description}</p>
 

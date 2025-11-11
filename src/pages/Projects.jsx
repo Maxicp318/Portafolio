@@ -19,7 +19,7 @@ const Projects = () => {
           Proyectos
         </h1>
         <div 
-          className='flex flex-col justify-center items-center gap-4 md:grid md:grid-cols-2 md:gap-4 lg:gap-6'
+          className='flex flex-col justify-center items-start gap-4 md:grid md:grid-cols-2 md:gap-4 lg:gap-6'
         >
           {
             ProjectsOwn.map((project) => (
